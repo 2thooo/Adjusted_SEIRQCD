@@ -1,0 +1,10 @@
+The orignal code is obtained from https://github.com/ECheynet/SEIR
+
+This was submitted to Dr.Babis for course MATH 432 
+
+A few adjustment where made to this , and to better fit the data , Also Check both Fit_SEIQRDP_Updated .txt and SEIQRDP_Updated.txt for Dr.Babis updated model 
+
+
+To start up the code use Example_Country.mlx 
+
+and keep adjusting the setting to obtain the graphs 
